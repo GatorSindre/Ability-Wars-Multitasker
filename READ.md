@@ -1,0 +1,1 @@
+This is a script that allows two pc's to communicate to have control over a second account. The second account needs to be running mumuplayer and crop the mumu player to fit the top left 1/4 of the screen and needs to be focused before starting to use keybinds. Rememeber to change the variables for ip and for port if you wish.
